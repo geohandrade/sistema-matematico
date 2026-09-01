@@ -1,4 +1,4 @@
-function soma(a,b) {
+function somar(a,b) {
     return a + b;
 }
 
@@ -16,7 +16,7 @@ function dividir(a,b) {
 }
 module.exports = {
 somar,
-subtrair ,
-multiplicar ,
+subtrair,
+multiplicar,
 dividir
 };
