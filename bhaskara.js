@@ -14,4 +14,3 @@ function calculateBhaskara(a, b, c) {
         x2: x2
     };
 }
-module.exports = calcularBhaskara ;
